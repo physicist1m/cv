@@ -1,0 +1,14 @@
+section {
+    border-bottom: 3px solid greenyellow;
+}
+
+ul {
+    text-align: left;
+    list-style-type: none;
+}
+
+li {
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: oblique;
+}

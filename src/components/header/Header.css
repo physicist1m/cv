@@ -1,0 +1,28 @@
+img {
+    background-color: red;
+    margin-right: 20%;
+    overflow: hidden;
+    height: 150px;
+    width: auto;
+}
+
+header {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: center;
+    border-bottom: 3px solid greenyellow;
+    flex-wrap: wrap;
+}
+
+#name {
+    margin-left: 20%;
+}
+
+.btn {
+    display: inline-block;
+    line-height: 50px;
+    height: 50px;
+    margin-left: 20%;
+}

@@ -1,0 +1,11 @@
+section{
+    border-bottom: 3px solid greenyellow;
+}
+
+p {
+    font-weight: bold;
+}
+
+span {
+    font-weight: normal;
+}
